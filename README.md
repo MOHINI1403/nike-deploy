@@ -5,4 +5,4 @@
  * ReactJs/Vite
 
 ## Link To View The Site:
-![alt text](https://mohini1403.github.io/nike-deploy/)
+![link](https://mohini1403.github.io/nike-deploy/)
